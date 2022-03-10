@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Aravs2000
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently piling up on mern stack
-- 💞️ I’m looking to collaborate on REACT development
 - 📫 How to reach me
   sekararavind5@gmail.com
 
